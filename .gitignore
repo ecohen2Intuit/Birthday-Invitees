@@ -1,0 +1,9 @@
+# Optional: Uncomment the files you want to keep private (not share with candidates)
+
+# Evaluation materials (uncomment to keep private)
+# EVALUATION_RUBRIC.md
+# INTERVIEWER_GUIDE.md
+# QUICK_REFERENCE.md
+
+# Note: The SOLUTION.jsx is already ignored in birthday-app/.gitignore
+
