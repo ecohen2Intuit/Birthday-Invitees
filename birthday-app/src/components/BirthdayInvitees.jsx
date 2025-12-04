@@ -1,7 +1,6 @@
-import { useState } from 'react';
 import { getBirthdayInvitees } from '../utils/birthdayInvitees';
-import call_history from '../call_history.json';
-import phone_contacts from '../phone_contacts.json';
+import call_history from '../call_history.json' with { type: 'json' };
+import phone_contacts from '../phone_contacts.json' with { type: 'json' };
 
 /**
  * INTERVIEW CHALLENGE - Part 1 & 2
