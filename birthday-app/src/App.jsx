@@ -1,10 +1,10 @@
 import './App.css'
-import BirthdayInvitees from './components/BirthdayInvitees'
-
+// import BirthdayInvitees from './components/BirthdayInvitees'
+import SOLUTION from './SOLUTION'
 function App() {
   return (
     <div className="App">
-      <BirthdayInvitees />
+      <SOLUTION />
     </div>
   )
 }
